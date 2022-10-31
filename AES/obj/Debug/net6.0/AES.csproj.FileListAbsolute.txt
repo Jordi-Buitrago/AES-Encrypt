@@ -1,0 +1,15 @@
+C:\Users\jobug\source\repos\AES\AES\bin\Debug\net6.0\AES.exe
+C:\Users\jobug\source\repos\AES\AES\bin\Debug\net6.0\AES.deps.json
+C:\Users\jobug\source\repos\AES\AES\bin\Debug\net6.0\AES.runtimeconfig.json
+C:\Users\jobug\source\repos\AES\AES\bin\Debug\net6.0\AES.dll
+C:\Users\jobug\source\repos\AES\AES\bin\Debug\net6.0\AES.pdb
+C:\Users\jobug\source\repos\AES\AES\obj\Debug\net6.0\AES.csproj.AssemblyReference.cache
+C:\Users\jobug\source\repos\AES\AES\obj\Debug\net6.0\AES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jobug\source\repos\AES\AES\obj\Debug\net6.0\AES.AssemblyInfoInputs.cache
+C:\Users\jobug\source\repos\AES\AES\obj\Debug\net6.0\AES.AssemblyInfo.cs
+C:\Users\jobug\source\repos\AES\AES\obj\Debug\net6.0\AES.csproj.CoreCompileInputs.cache
+C:\Users\jobug\source\repos\AES\AES\obj\Debug\net6.0\AES.dll
+C:\Users\jobug\source\repos\AES\AES\obj\Debug\net6.0\refint\AES.dll
+C:\Users\jobug\source\repos\AES\AES\obj\Debug\net6.0\AES.pdb
+C:\Users\jobug\source\repos\AES\AES\obj\Debug\net6.0\AES.genruntimeconfig.cache
+C:\Users\jobug\source\repos\AES\AES\obj\Debug\net6.0\ref\AES.dll
